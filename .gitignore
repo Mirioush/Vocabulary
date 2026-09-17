@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+progress.json
+android/.buildozer/
+android/bin/
+android/buildozer
